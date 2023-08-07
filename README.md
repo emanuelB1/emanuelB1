@@ -12,8 +12,7 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 
 ## Proyectos:
 
-- [Aplicación Web de Gestión de Proyectos](https://github.com/emanuelbustos/project-manager)
-- [Sitio Web Personal](https://github.com/emanuelbustos/portfolio)
+- [Sitio Web Personal](https://emanuelbustos.com)
 - [Aplicación Web de Presupuestos](https://github.com/emanuelbustos/budget-app)
 
 ## Encuéntrame en:
@@ -22,6 +21,3 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 [![Twitter](https://img.shields.io/badge/Twitter-@emanuelbustos-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@emanuelbustos-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com)
 
-## Apoya mi trabajo:
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Dona_un_café-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/emanuelbustos)
