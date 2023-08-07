@@ -13,6 +13,7 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 ## Proyectos:
 
 - [Sitio Web Personal](https://emanuelbustos.com)
+- [Blog sobre League of Legends Wild Rift](https://lol101.vip/)
 
 ## Proyectos enfocados en el Frontend 
 - [Proyecto Frontend 1](enlace_del_proyecto1)
