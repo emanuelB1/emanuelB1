@@ -16,7 +16,7 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 - [Blog sobre League of Legends Wild Rift](https://lol101.vip/)
 
 ## Proyectos enfocados en el Frontend 
-Portafolio Anterior [repo](https://github.com/emanuelB1/portafolio/tree/master) [Web](https://emanuelb1.github.io/portafolio/)
+Portafolio Anterior [Repo](https://github.com/emanuelB1/portafolio/tree/master) [Web](https://emanuelb1.github.io/portafolio/)
   
 ## Proyectos enfocados en el Backend con Django
 - [Proyecto Backend 1](enlace_del_proyecto1)
