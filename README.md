@@ -16,11 +16,11 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 - [Blog sobre League of Legends Wild Rift](https://lol101.vip/)
 
 ## Proyectos enfocados en el Frontend 
-Portafolio Anterior [Repo](https://github.com/emanuelB1/portafolio/tree/master) [Web](https://emanuelb1.github.io/portafolio/)
-Api Digimon [Repo](https://github.com/emanuelB1/api-digimon/tree/master) [Web](https://emanuelb1.github.io/api-digimon/)
-Reserva de Tickets  [Repo](https://github.com/emanuelB1/festiva/tree/master) [Web](https://emanuelb1.github.io/festiva/)
-Tienda  [Repo](https://github.com/emanuelB1/tienda/tree/master) [Web](https://emanuelb1.github.io/tienda/)
-Restaurante  [Repo](https://github.com/emanuelB1/emanuel_bustos_pub_restaurant/tree/master) [Web](https://emanuelb1.github.io/emanuel_bustos_pub_restaurant/)
+- Portafolio Anterior [Repo](https://github.com/emanuelB1/portafolio/tree/master) [Web](https://emanuelb1.github.io/portafolio/)
+- Api Digimon [Repo](https://github.com/emanuelB1/api-digimon/tree/master) [Web](https://emanuelb1.github.io/api-digimon/)
+- Reserva de Tickets  [Repo](https://github.com/emanuelB1/festiva/tree/master) [Web](https://emanuelb1.github.io/festiva/)
+- Tienda  [Repo](https://github.com/emanuelB1/tienda/tree/master) [Web](https://emanuelb1.github.io/tienda/)
+- Restaurante  [Repo](https://github.com/emanuelB1/emanuel_bustos_pub_restaurant/tree/master) [Web](https://emanuelb1.github.io/emanuel_bustos_pub_restaurant/)
   
 ## Proyectos enfocados en el Backend con Django
 - [Proyecto Backend 1](enlace_del_proyecto1)
