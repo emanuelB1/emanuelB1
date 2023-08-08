@@ -27,6 +27,6 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emanuelbustos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emanuelbustos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/emanuel-bustos-orellana-a21a37286/)
 [![Instagram](https://img.shields.io/badge/Instagram-@emanuelbustos-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com)
 
