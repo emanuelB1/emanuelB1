@@ -23,7 +23,7 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 - Restaurante  [Repo](https://github.com/emanuelB1/emanuel_bustos_pub_restaurant/tree/master) [Web](https://emanuelb1.github.io/emanuel_bustos_pub_restaurant/)
   
 ## Proyectos enfocados en el Backend con Django
-- [Proyecto Backend 1](enlace_del_proyecto1)
+- Blog [Repo](https://github.com/emanuelB1/django_project_blog) [Web](https://lol101.vip/)
 
 ## Encuéntrame en:
 
