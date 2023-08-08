@@ -24,7 +24,8 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
   
 ## Proyectos enfocados en el Backend con Django
 - Blog [Repo](https://github.com/emanuelB1/django_project_blog) [Web](https://lol101.vip/)
-- Aplicacion para administrar empresa de productos farmacéuticos, Backend, Base de Datos, Frontend [Repo](https://github.com/emanuelB1/Emanuel-Bustos-Final-Drilling/tree/master) 
+- Aplicacion para administrar empresa de productos farmacéuticos, Backend, Base de Datos, Frontend [Repo](https://github.com/emanuelB1/Emanuel-Bustos-Final-Drilling/tree/master)
+- Aplicacion Gestion de Tienda de Vehiculos [Repo](https://github.com/emanuelB1/final_drilling_django/tree/master)
 
 ## Encuéntrame en:
 
