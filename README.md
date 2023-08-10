@@ -28,6 +28,7 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 - Sismos en Chile  [Repo](https://github.com/emanuelB1/sismos/tree/main) [Web](https://sismoschile.com/)
 - Aplicacion para administrar empresa de productos farmacéuticos, Backend, Base de Datos, Frontend [Repo](https://github.com/emanuelB1/Emanuel-Bustos-Final-Drilling/tree/master)
 - Aplicacion Gestion de Tienda de Vehículos [Repo](https://github.com/emanuelB1/final_drilling_django/tree/master)
+- Mi Portafolio [Web](https://emanuelbustos.com) [Repo](https://github.com/emanuelB1/portafolio_dinamico)
 
 ## Utilidades Realizadas con Python
 - Programa para quitar fondo de imagenes [Repo](https://github.com/emanuelB1/quita_fondo_v1.0.0)
