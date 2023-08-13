@@ -16,6 +16,7 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 - [Sitio Web Personal](https://emanuelbustos.com)
 - [Blog sobre League of Legends Wild Rift](https://lol101.vip/)
 - [Sismos en Chile en tiempo real](https://sismoschile.com/)
+- [Nostalgic poesía generada por IA](https://nostalgic.vip/)
 
 ## Proyectos enfocados en el Frontend 
 - Portafolio Anterior [Repo](https://github.com/emanuelB1/portafolio/tree/master) [Web](https://emanuelb1.github.io/portafolio/)
@@ -30,6 +31,7 @@ Soy desarrollador web Full Stack Python Trainee. Me apasiona crear aplicaciones 
 - Aplicacion para administrar empresa de productos farmacéuticos, Backend, Base de Datos, Frontend [Repo](https://github.com/emanuelB1/Emanuel-Bustos-Final-Drilling/tree/master)
 - Aplicacion Gestion de Tienda de Vehículos [Repo](https://github.com/emanuelB1/final_drilling_django/tree/master)
 - Mi Portafolio [Web](https://emanuelbustos.com) [Repo](https://github.com/emanuelB1/portafolio_dinamico)
+- Nostalgic poesía generada por IA [Web](https://nostalgic.vip/)
 
 ## Utilidades Realizadas con Python
 - Programa para quitar fondo de imagenes [Repo](https://github.com/emanuelB1/quita_fondo_v1.0.0)
